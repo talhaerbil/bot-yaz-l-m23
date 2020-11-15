@@ -20,7 +20,7 @@ exports.run = (client, message, args) => {
  \n**• \`${ayarlar.prefix}guard\` = Gaurd Komutlarını Görürsünüz**.
 
 » Linkler ; 
-» Davet Linkim ; https://discord.com/oauth2/authorize?client_id=777183724118736916&scope=bot&permissions=805331006!`)//.addField ("Linkler ; https://discord.com/oauth2/authorize?client_id=777183724118736916&scope=bot&permissions=805331006")
+» Davet Linkim ; https://discord.com/oauth2/authorize?client_id=777516190380720138&scope=bot&permissions=0!`)//.addField ("Linkler ; https://discord.com/oauth2/authorize?client_id=777516190380720138&scope=bot&permissions=0")
 
     //.addField("» Linkler", `[Web Sitesi Yapımda](http://7354124.305283.renderforestsites.com/)  `, false)  
        .setThumbnail(message.author.avatarURL)
